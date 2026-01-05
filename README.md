@@ -12,15 +12,16 @@ Available from:
 
 
 <h2>Emulation</h2>
-Mac Emulation:
+<h3>Mac Emulation</h3>
 Available from:
 https://github.com/benob/picocalc-umac
 A System 7 Disk Image is available available from the above <BR>
 Place the disk image umac0.img in SD_ROOT <BR>
 A second disk image can be placed as umac1.img <BR>
-<hr>
 
-CP/M Emulation:
+
+<h3>CP/M Emulation</h3>
+
 Available from:
 https://github.com/guidol70/RunCPM_RPi_Pico
 
