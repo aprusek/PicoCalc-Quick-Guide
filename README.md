@@ -28,7 +28,7 @@ If an application is loaded, it will automatically boot unless <B>UP</B>, <B>F1<
 The first entry in the file list (shown in square brackets) will show the filename of the loaded application<BR>
 if one is present, and will boot to it directly without reflashing if selected.<BR><BR>
 
-Holding <B>DOWN</B> or <B>F3<?B> during power-on instead will put the Pico into BOOTSEL mode if you need it.<BR>
+Holding <B>DOWN</B> or <B>F3</B> during power-on instead will put the Pico into BOOTSEL mode if you need it.<BR>
 
 <h1>Emulation</h1>
 
