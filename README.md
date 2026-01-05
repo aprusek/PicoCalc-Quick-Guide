@@ -14,7 +14,7 @@ Available from:
 https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_Bootloader_v0.5.uf2 <BR>
 
 <h2> U2F Loader </h2>
-This Bootloader will load U2F Files, it can be use to daiy-chain the BIN loader above. <BR>
+This Bootloader will load U2F Files, it can be use to daisy-chain the BIN loader above. <BR>
 
 Available from:
 https://github.com/pelrun/uf2loader<BR>
