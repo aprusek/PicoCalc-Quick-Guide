@@ -22,6 +22,7 @@ https://github.com/pelrun/uf2loader<BR>
 Installation: <BR>
 The Bootloader https://github.com/pelrun/uf2loader/releases/download/v2.3/bootloader_pico.uf2 is flashed to the Pico via USB <BR>
 The https://github.com/pelrun/uf2loader/releases/download/v2.3/BOOT2040.uf2 file needs to live in SD_ROOT
+U2F files to be loaded live in SD_ROOT/pico1-apps
 
 <h1>Emulation</h1>
 
