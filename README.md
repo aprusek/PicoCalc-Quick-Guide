@@ -31,14 +31,14 @@ https://github.com/guidol70/RunCPM_RPi_Pico <BR>
 Disk Images
 https://github.com/guidol70/RunCPM
 
-Installation
+Installation: <BR>
 Place U2F file in SD_ROOT/pico1-apps <BR>
 Place disk image files in SD_ROOT/[DISK_LETTER]/[USER_NUMBER] <BR>
 Operating System files should be in <SD_ROOT>/A/0 <BR>
 
 <h2>NES</h2>
 Available from: https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES <BR>
-This point to this https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_NES_v1.0.uf2 <BR>
+This page points to: https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_NES_v1.0.uf2 <BR>
 
 <h2>GameBoy</h2>
 
