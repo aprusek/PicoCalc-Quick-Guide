@@ -21,8 +21,14 @@ https://github.com/pelrun/uf2loader<BR>
 
 Installation: <BR>
 The Bootloader https://github.com/pelrun/uf2loader/releases/download/v2.3/bootloader_pico.uf2 is flashed to the Pico via USB <BR>
-The https://github.com/pelrun/uf2loader/releases/download/v2.3/BOOT2040.uf2 file needs to live in SD_ROOT
-U2F files to be loaded live in SD_ROOT/pico1-apps
+The https://github.com/pelrun/uf2loader/releases/download/v2.3/BOOT2040.uf2 file needs to live in SD_ROOT <BR>
+U2F files to be loaded live in SD_ROOT/pico1-apps <BR>
+<BR>
+If an application is loaded, it will automatically boot unless <B>UP</B>, <B>F1</B> or <B>F5</B> is held during power on.<BR><BR>
+The first entry in the file list (shown in square brackets) will show the filename of the loaded application<BR>
+if one is present, and will boot to it directly without reflashing if selected.<BR><BR>
+
+Holding <B>DOWN</B> or <B>F3<?B> during power-on instead will put the Pico into BOOTSEL mode if you need it.<BR>
 
 <h1>Emulation</h1>
 
