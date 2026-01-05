@@ -3,13 +3,25 @@
 <H1>Bootloaders</H1>
 
 
-<h2>From the Fatory</h2>
+<h2>From the Factory</h2>
 The bootloader that came with the PicoCalc (as of December 2025) is
 
-PicoCalc_Bootloader_v0.5.uf2
+PicoCalc_Bootloader_v0.5.uf2 <BR>
+
+This bootloader will only load BIN files <BR>
 
 Available from:
+https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_Bootloader_v0.5.uf2 <BR>
 
+<h2> U2F Loader </h2>
+This Bootloader will load U2F Files, it can be use to daiy-chain the BIN loader above. <BR>
+
+Available from:
+https://github.com/pelrun/uf2loader<BR>
+
+Installation: <BR>
+The Bootloader https://github.com/pelrun/uf2loader/releases/download/v2.3/bootloader_pico.uf2 is flashed to the Pico via USB <BR>
+The https://github.com/pelrun/uf2loader/releases/download/v2.3/BOOT2040.uf2 file needs to live in SD_ROOT
 
 <h1>Emulation</h1>
 
