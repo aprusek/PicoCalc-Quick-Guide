@@ -1,4 +1,4 @@
-# PicoCalc-(BootLoasder)-Quick-Guide
+# PicoCalc-(BootLoader)-Quick-Guide
 
 <H1>Bootloaders</H1>
 
