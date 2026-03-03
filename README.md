@@ -11,7 +11,12 @@ PicoCalc_Bootloader_v0.5.uf2 <BR>
 This bootloader will only load BIN files <BR>
 
 Available from:
-https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_Bootloader_v0.5.uf2 <BR>
+https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_Bootloader_v0.5.uf2 <BR><BR>
+Basic program Repositories (some are nto specifically for MMBASIC<BR>
+https://michaeladcock.info/temp/PicoCalc_MMBasic.html<BR>
+https://github.com/wereallgeek/PicoCalc-MMBasic-Programs-from-the-geeks<BR>
+https://github.com/maurymarkowitz/101-BASIC-Computer-Games<BR>
+
 
 <h2> U2F Loader </h2>
 This Bootloader will load U2F Files, it can be use to daisy-chain the BIN loader above. <BR>
