@@ -68,7 +68,7 @@ https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/P
 Available from:
 https://github.com/TheKiwil/PocketPico <BR>
 
-<h2Picoware</h2>
+<h2>Picoware</h2>
 
 Available from:
 https://github.com/jblanked/Picoware/releases/tag/v1.7.1
