@@ -31,14 +31,13 @@ if one is present, and will boot to it directly without reflashing if selected.<
 
 Holding <B>DOWN</B> or <B>F3</B> during power-on instead will put the Pico into BOOTSEL mode if you need it.<BR>
 
-<h1>Dev Environments</h1>>
-<h2>Picoware</h2>
-Available from: https://www.thebackshed.com/forum/uploads/matherp/2026-02-12_001213_PicoMiteV6.01.01b0.zip <BR>
-
-Available from: https://github.com/jblanked/Picoware/releases/tag/v1.7.1 <BR>
-
+<h1>Dev Environments</h1>
 <h2>MMBASIC</h2>
 Available from: https://www.thebackshed.com/forum/uploads/matherp/2026-02-12_001213_PicoMiteV6.01.01b0.zip <BR>
+
+<h2>Picoware</h2>
+Available from: https://github.com/jblanked/Picoware/releases/tag/v1.7.1 <BR>
+
 <h1>Emulation</h1>
 
 <h2>CP/M Emulation</h2>
