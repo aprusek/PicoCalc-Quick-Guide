@@ -57,14 +57,21 @@ Place disk image files in SD_ROOT/[DISK_LETTER]/[USER_NUMBER] <BR>
 Operating System files should be in <SD_ROOT>/A/0 <BR>
 
 <h2>NES</h2>
-Available from: https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES <BR>
-This page points to: https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_NES_v1.0.uf2 <BR>
+Available from:
+https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES <BR>
+
+This page points to:
+https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_NES_v1.0.uf2 <BR>
 
 <h2>GameBoy</h2>
 
 Available from:
 https://github.com/TheKiwil/PocketPico <BR>
 
+<h2Picoware</h2>
+
+Available from:
+https://github.com/jblanked/Picoware/releases/tag/v1.7.1
 <h2>MMBASIC</h2>
 
 Available from:
