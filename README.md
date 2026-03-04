@@ -12,18 +12,11 @@ This bootloader will only load BIN files <BR>
 
 Available from:
 https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_Bootloader_v0.5.uf2 <BR><BR>
-Basic program Repositories (some are not specifically for MMBASIC)<BR>
-https://michaeladcock.info/temp/PicoCalc_MMBasic.html<BR>
-https://github.com/wereallgeek/PicoCalc-MMBasic-Programs-from-the-geeks<BR>
-https://github.com/maurymarkowitz/101-BASIC-Computer-Games<BR>
-<BR>
-MMBasic BASIC Interpreter Manual: https://geoffg.net/Downloads/picomite/PicoMite_User_Manual.pdf<BR>
-
 
 <h2> U2F Loader </h2>
 This Bootloader will load U2F Files, it can be use to daisy-chain the BIN loader above. <BR>
 
-Available from:
+Available from: <BR>
 https://github.com/pelrun/uf2loader<BR>
 
 Installation: <BR>
@@ -41,15 +34,26 @@ Holding <B>DOWN</B> or <B>F3</B> during power-on instead will put the Pico into 
 <h1>Dev Environments</h1>
 <h2>MMBASIC</h2>
 Available from: https://www.thebackshed.com/forum/uploads/matherp/2026-02-12_001213_PicoMiteV6.01.01b0.zip <BR>
+<BR>
+Basic program Repositories (some are not specifically for MMBASIC)<BR>
+https://michaeladcock.info/temp/PicoCalc_MMBasic.html<BR>
+https://github.com/wereallgeek/PicoCalc-MMBasic-Programs-from-the-geeks<BR>
+https://github.com/maurymarkowitz/101-BASIC-Computer-Games<BR>
+<BR>
+MMBasic BASIC Interpreter Manual:<BR>
+https://geoffg.net/Downloads/picomite/PicoMite_User_Manual.pdf<BR>
 
 <h2>Picoware</h2>
-Available from: https://github.com/jblanked/Picoware/releases/tag/v1.7.1 <BR>
+Available from:<BR>
+https://github.com/jblanked/Picoware/releases/tag/v1.7.1 <BR>
 
 <h1>Emulation</h1>
 
 <h2>CP/M Emulation</h2>
-Available from: https://github.com/guidol70/RunCPM_RPi_Pico <BR>
-Disk Images: https://github.com/guidol70/RunCPM<BR>
+Available from:<BR>
+https://github.com/guidol70/RunCPM_RPi_Pico <BR>
+Disk Images:<BR>
+https://github.com/guidol70/RunCPM<BR>
 
 Installation: <BR>
 Place U2F file in SD_ROOT/pico1-apps <BR>
@@ -65,11 +69,10 @@ A Mac ROM Image is  available from the above <BR>
 Place the ROM image in SD_ROOT/roms <BR>
 
 <h2>NES</h2>
-Available from:
+Available from:<BR>
 https://github.com/clockworkpi/PicoCalc/tree/master/Code/NES <BR>
-This page points to: https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/PicoCalc_NES_v1.0.uf2 <BR>
 
 <h2>GameBoy</h2>
-Available from:
+Available from:<BR>
 https://github.com/TheKiwil/PocketPico <BR>
 
