@@ -28,7 +28,7 @@ U2F files to be loaded live in SD_ROOT/pico1-apps
 
 <h3>For a PICO2</h3>
 BBOOT2350.uf2 file needs to live in SD_ROOT <BR>
-U2F files to be loaded live in SD_ROOT/pico2-apps
+U2F files to be loaded live in SD_ROOT/pico2-apps <BR><BR>
 
 If an application is loaded, it will automatically boot unless <B>UP</B>, <B>F1</B> or <B>F5</B> is held during power on.<BR><BR>
 The first entry in the file list (shown in square brackets) will show the filename of the loaded application<BR>
