@@ -17,18 +17,18 @@ https://github.com/clockworkpi/PicoCalc/blob/master/Bin/PicoCalc%20SD/firmware/P
 This Bootloader will load U2F Files, it can be use to daisy-chain the BIN loader above. <BR>
 
 Available from: <BR>
-https://github.com/pelrun/uf2loader<BR><BR>
+https://github.com/pelrun/uf2loader<BR
 
 <h3>ALL</h3>
-Flash bootloader_pico.uf2 to the Pico via USB<BR><BR>
+Flash bootloader_pico.uf2 to the Pico via USB
 
 <h3>For a PICO1</h3>
 BOOT2040.uf2 file needs to live in SD_ROOT <BR>
-U2F files to be loaded live in SD_ROOT/pico1-apps <BR><BR>
+U2F files to be loaded live in SD_ROOT/pico1-apps
 
 <h3>For a PICO2</h3>
 BBOOT2350.uf2 file needs to live in SD_ROOT <BR>
-U2F files to be loaded live in SD_ROOT/pico2-apps <BR><BR>
+U2F files to be loaded live in SD_ROOT/pico2-apps
 
 If an application is loaded, it will automatically boot unless <B>UP</B>, <B>F1</B> or <B>F5</B> is held during power on.<BR><BR>
 The first entry in the file list (shown in square brackets) will show the filename of the loaded application<BR>
