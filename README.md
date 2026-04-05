@@ -2,6 +2,16 @@
 
 <H1>Bootloaders</H1>
 
+<h2>Bootloader mode</h2>
+Used to load a single boot image for the Pico flash<BR><BR>
+
+Power off the PicoCalc<BR>
+Press and Hold the Boot Select button on the Pico board. <BR>
+Connect USB cable from computer to the Pico board (USB B Micro) not the PicoCalc (USB C) <BR>
+Copy the UF2 file to the mounted disk<BR><BR>
+
+The UF2 Loader can enter Bootloader mode pressing F3<BR>
+
 
 <h2>From the Factory</h2>
 The bootloader that came with the PicoCalc (as of December 2025) is
